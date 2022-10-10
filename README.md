@@ -1,5 +1,5 @@
-# Proyecto01
-Primer repositorio
+# Proyecto 01
+Mi primer repositorio
 
 
 Autor: Lobsang Leonardo Armenta Fuentes
